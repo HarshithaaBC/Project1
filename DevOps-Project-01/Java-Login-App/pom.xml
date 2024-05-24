@@ -84,7 +84,7 @@
                         <configuration>
                             <contextUrl>https://edshopdpt8.jfrog.io/artifactory</contextUrl>
                             <username>admin</username>
-                            <password>admin</password>
+                            <password>HarshiAWS123*</password>
                             <repository>libs-release-local</repository>
                             <snapshotRepository>libs-snapshot-local</snapshotRepository>
                         </configuration>
